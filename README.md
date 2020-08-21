@@ -90,5 +90,5 @@ Citation
 
 When you use this work or method for your research, we ask you to cite the following publication:
 
-[Bereket Abera Yilma, Najib Aghenda, Marcelo Romero, Yannick Naudet and Hervé Panetto (2020), Personalized Visual Art Recommendation by Learning Latent Semantic Representations in Semantic and Social Media Adaptation & Personalization doi:----](link to publication)
+[Bereket Abera Yilma, Najib Aghenda, Marcelo Romero, Yannick Naudet and Hervé Panetto (2020), Personalized Visual Art Recommendation by Learning Latent Semantic Representations in Semantic and Social Media Adaptation & Personalization doi:----](https://arxiv.org/abs/2008.02687)
 
