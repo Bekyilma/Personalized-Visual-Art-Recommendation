@@ -15,7 +15,7 @@ In Recommender systems, data representation techniques play a great role as they
 <tr>
   <td>NumPy</td>
   <td>
-    <a href="www.numpy.org/">
+    <a href="https://www.numpy.org/">
     <img src="https://img.shields.io/badge/NumPy-v1.19.1-green" alt="NumPy" />
     </a>
   </td>
@@ -31,7 +31,7 @@ In Recommender systems, data representation techniques play a great role as they
 <tr>
   <td>scikit-learn</td>
   <td>
-    <a href="scikit-learn.org/">
+    <a href="https://www.scikit-learn.org/">
     <img src="https://img.shields.io/badge/scikit--learn-v0.23.2-blueviolet" alt="scikit-learn" />
     </a>
 </td>
@@ -39,7 +39,7 @@ In Recommender systems, data representation techniques play a great role as they
 <tr>
   <td>Pandas</td>
   <td>
-    <a href="pandas.pydata.org/">
+    <a href="https://www.pandas.pydata.org/">
     <img src="https://img.shields.io/badge/pandas-v1.1.1-blue" alt="Pandas" />
     </a>
   </td>
