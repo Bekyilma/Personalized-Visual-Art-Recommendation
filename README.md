@@ -1,4 +1,4 @@
-# Personalised Visual Art Recommendation by Learning Latent Semantic Representations
+# PVRec: Personalised Visual Art Recommendation by Learning Latent Semantic Representations
 <p align="center">
 <img width="1100"  src="/figures/cover.jpg"/> 
 </p>
